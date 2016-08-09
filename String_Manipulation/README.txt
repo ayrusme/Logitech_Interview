@@ -11,3 +11,6 @@ Case 2:
 Input: a c c d m o f
 
 Output: B D E F N P G
+
+ - Surya Raman
+   github.com/ayrusme
