@@ -1,4 +1,5 @@
-The problem statement is to cipher the texts in the pattern mentioned in the cases below. Note that, no two consecutive alphabets are allowed in the output.
+The problem statement is to cipher the texts in the pattern mentioned in the cases below. 
+Note that, no two consecutive alphabets are allowed in the output.
 
 Case 1:
 
